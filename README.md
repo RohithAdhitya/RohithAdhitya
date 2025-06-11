@@ -6,7 +6,7 @@
 🔍 I explore data from every angle — from dashboards to pipelines to automation.  
 🛠 I enjoy working across the full data spectrum: analysis, engineering, and strategy.  
 🌱 Currently learning: Cloud data tools, dbt, and real-time analytics  
-📫 Reach me at: rohithadhitya [at] gmail [dot] com  
+📫 Reach me at: rohithadhitya [at] gmail [dot] com
 
 ---
 
