@@ -3,11 +3,12 @@
 
 ---
 
-🔍 I explore data to extract insights, build pipelines, and automate workflows.  
-📊 I enjoy combining analysis and engineering to create solutions that matter.  
-🛠️ Tools I use: Python, SQL, Pandas, Spark, Tableau, Airflow, scikit-learn  
-🌱 Currently learning: dbt, real-time analytics, cloud data platforms  
-📫 How to reach me: rohithadhitya [at] gmail [dot] com  
+👋 Hi, I'm Rohith — I work across data analysis and engineering to solve real-world problems with code, logic, and curiosity.
+🧠 From exploring trends and building dashboards to designing data pipelines and deploying models, I enjoy working across the full data spectrum.
+🛠️ Tools I use: Python, SQL, Pandas, Spark, Airflow, Tableau, scikit-learn
+📊 Interests: data storytelling, automation, reproducible analytics, scalable systems
+🌱 Currently learning: cloud data tools, dbt, and real-time analytics
+📫 Reach me at: rohithadhitya [at] gmail [dot] com
 
 ---
 
