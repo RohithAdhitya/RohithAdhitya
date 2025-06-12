@@ -8,7 +8,7 @@
 🌱 Currently learning: Cloud data tools, dbt, and real-time analytics  
 📫 Reach me at: <a href="mailto:rohithadhitya@gmail.com">rohithadhitya@gmail.com</a>
 
-👨‍💻 Check out [My Portfolio](https://rohithadhitya.github.io/portfolio)
+👨‍💻 Check out [My Portfolio](https://rohithadhitya.github.io/Portfolio_RohithAdhityaCR)
 
 
 ---
