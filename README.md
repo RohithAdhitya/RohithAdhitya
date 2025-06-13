@@ -22,7 +22,7 @@
   <a href="https://leetcode.com/rohithadhitya/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
   </a>
-  <a href="https://public.tableau.com/app/profile/rohith.adhitya" target="_blank">
+  <a href="https://public.tableau.com/app/profile/rohith.adhitya.chinnannan.rajkumar/vizzes" target="_blank">
     <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau" />
   </a>
   <a href="mailto:rohithadhitya@gmail.com" target="_blank">
